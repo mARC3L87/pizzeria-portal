@@ -3,3 +3,20 @@
 .component {
   padding: $base-size;
 }
+
+.buttons {
+  display: flex;
+  width: 250px;
+  margin: auto 0;
+  justify-content: space-between;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.reservation {
+  margin: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+}
