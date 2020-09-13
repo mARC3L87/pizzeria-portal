@@ -10,7 +10,7 @@ import TablesBookingId from '../src/components/views/Tables/TablesBookingId';
 import TablesBookingNew from '../src/components/views/Tables/TablesBookingNew';
 import TablesEventsId from '../src/components/views/Tables/TablesEventsId';
 import TablesEventsNew from '../src/components/views/Tables/TablesEventsNew';
-import Waiter from '../src/components/views/Waiter/Waiter';
+import Waiter from '../src/components/views/Waiter/WaiterContainer';
 import WaiterOrderId from '../src/components/views/Waiter/WaiterOrderId';
 import WaiterOrderNew from '../src/components/views/Waiter/WaiterOrderNew';
 import Kitchen from '../src/components/views/Kitchen/Kitchen';
